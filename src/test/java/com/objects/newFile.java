@@ -6,7 +6,7 @@ public class newFile {
 		String a = "THis file directly added from git hub";
 	}
 	
-	public void testingMethod(int a) {
+	public void testingMethod(String a) {
 		a = "this is for method added from Github";
 	}
 
