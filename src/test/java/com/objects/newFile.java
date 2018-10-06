@@ -7,7 +7,7 @@ public class newFile {
 	}
 	
 	public void testingMethod(String a) {
-		a = "this is for method added from Github";
+		a = "this is for method added from Github really";
 	}
 
 }
